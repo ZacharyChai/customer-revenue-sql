@@ -25,3 +25,10 @@ The analysis is based on a normalized relational schema:
 - Business metric analysis
 
 ## Project Structure
+```
+sql/
+  schema.sql
+  revenue_analysis.sql
+  customer_metrics.sql
+  product_performance.sql
+```
