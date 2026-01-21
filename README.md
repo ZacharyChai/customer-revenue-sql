@@ -1,3 +1,4 @@
+Business-oriented SQL analytics for revenue, customers, and product performance
 # Customer & Revenue Analytics Using SQL
 
 ## Overview
